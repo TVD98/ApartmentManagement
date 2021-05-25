@@ -1,0 +1,13 @@
+﻿  Apartment.cpp
+  AreaSorting.cpp
+  IndexSorting.cpp
+  Main.cpp
+C:\Users\Hippo\source\repos\ApartmentManagement\SearchSystem.h(37,27): warning C4018: '<': signed/unsigned mismatch
+  ManagementSystem.cpp
+C:\Users\Hippo\source\repos\ApartmentManagement\SearchSystem.h(37,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hippo\source\repos\ApartmentManagement\ManagementSystem.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hippo\source\repos\ApartmentManagement\ManagementSystem.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hippo\source\repos\ApartmentManagement\ManagementSystem.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+  Vehicle.cpp
+  Generating Code...
+  ApartmentManagement.vcxproj -> C:\Users\Hippo\source\repos\ApartmentManagement\Debug\ApartmentManagement.exe
